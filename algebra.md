@@ -22,8 +22,12 @@ $\sqrt{a^2} = |a|$
 $\sqrt{a}\sqrt{b} = \sqrt{ab}$
 
 ## Квадратные уравнения
-$x_1x_2 = c$,
-$x_1 + x_2 = -b$
+$a{x}^2 + bx + c = 0$
+
+$x_0 = \frac{-b}{2a}$
+
+$x_1 x_2 = \frac{c}{a}$,
+$x_1 + x_2 = -\frac{b}{a}$
 
 $D = b^2 - 4ac$,
 $x_{1,2} = \frac{-b \pm \sqrt{D}}{2a}$
@@ -37,3 +41,27 @@ $x_{1,2} = \frac{-\frac{b}{2} \pm \sqrt{\frac{D}{4}}}{a}$
 | $\sin$ | $\frac{1}{2}$ | $\frac{\sqrt{2}}{2}$ | $\frac{\sqrt{3}}{2}$ |
 | $\cos$ | $\frac{\sqrt{3}}{2}$ | $\frac{\sqrt{2}}{2}$ | $\frac{1}{2}$ |
 | $\tan$ | $\frac{\sqrt{3}}{3}$ | $1$ | $\sqrt{3}$ |
+
+$tg\alpha = \frac{sin\alpha}{cos\alpha}$
+
+$cos(90^\circ - \alpha) = sin\alpha$
+
+$sin(90^\circ - \alpha) = cos\alpha$
+
+$sin(180^\circ - \alpha) = sin\alpha$
+
+$cos(180^\circ - \alpha) = -cos\alpha$
+
+$sin^2\alpha + cos^2\alpha = 1$
+
+## Vectors
+
+$|\vec{a}| = \sqrt{a_x^2 + a_y^2}$
+
+$k\vec{a} = \{ka_x; ka_y\}$
+
+$\vec{a}\{a_x; a_y\} + \vec{b}\{b_x; b_y\} = \{a_x + b_x; a_y + b_y\}$
+
+$\vec{a}\vec{b} = a_x b_x + a_y b_y$
+
+$\vec{a}\vec{b} = |\vec{a}| |\vec{b}| cos\alpha$
