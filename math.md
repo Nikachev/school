@@ -14,6 +14,8 @@ $\sqrt{7} = 2.6458$
 
 $\sqrt{11} = 3.3166$
 
+$\sqrt{17} = 4.1231$
+
 ## Symbols
 
 $\mathbb{N}$ - Natural numbers

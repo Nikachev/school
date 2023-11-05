@@ -58,9 +58,9 @@ $sin^2\alpha + cos^2\alpha = 1$
 
 $|\vec{a}| = \sqrt{a_x^2 + a_y^2}$
 
-$k\vec{a} = \{ka_x; ka_y\}$
+$`k\vec{a} = \{ka_x; ka_y\}`$
 
-$\vec{a}\{a_x; a_y\} + \vec{b}\{b_x; b_y\} = \{a_x + b_x; a_y + b_y\}$
+$`\vec{a}\{a_x; a_y\} + \vec{b}\{b_x; b_y\} = \{a_x + b_x; a_y + b_y\}`$
 
 $\vec{a}\vec{b} = a_x b_x + a_y b_y$
 
