@@ -35,25 +35,6 @@ $x_{1,2} = \frac{-b \pm \sqrt{D}}{2a}$
 $\frac{D}{4} = \left(\frac{b}{2}\right)^2 - ac$,
 $x_{1,2} = \frac{-\frac{b}{2} \pm \sqrt{\frac{D}{4}}}{a}$
 
-## Trigonometry
-| | 30° | 45° | 60° |
-| --- | --- | --- | --- |
-| $\sin$ | $\frac{1}{2}$ | $\frac{\sqrt{2}}{2}$ | $\frac{\sqrt{3}}{2}$ |
-| $\cos$ | $\frac{\sqrt{3}}{2}$ | $\frac{\sqrt{2}}{2}$ | $\frac{1}{2}$ |
-| $\tan$ | $\frac{\sqrt{3}}{3}$ | $1$ | $\sqrt{3}$ |
-
-$tg\alpha = \frac{sin\alpha}{cos\alpha}$
-
-$cos(90^\circ - \alpha) = sin\alpha$
-
-$sin(90^\circ - \alpha) = cos\alpha$
-
-$sin(180^\circ - \alpha) = sin\alpha$
-
-$cos(180^\circ - \alpha) = -cos\alpha$
-
-$sin^2\alpha + cos^2\alpha = 1$
-
 ## Vectors
 
 $|\vec{a}| = \sqrt{a_x^2 + a_y^2}$
