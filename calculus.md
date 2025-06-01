@@ -12,10 +12,11 @@ $$\lim_{x \to \infty} g(x) = c,$$
 
 то
 
+$$\lim_{x \to \infty} (k f(x)) = kb$$
+$$\lim_{x \to \infty} |f(x)| = |b|$$
 $$\lim_{x \to \infty} (f(x) + g(x)) = b + c$$
 $$\lim_{x \to \infty} (f(x)g(x)) = bc$$
 $$\lim_{x \to \infty} \frac{f(x)}{g(x)} = \frac{b}{c}$$
-$$\lim_{x \to \infty} (k f(x)) = kb$$
 
 ## Производные
 
