@@ -26,15 +26,22 @@ $\mathbb{Z}$ - Integers
 
 $\mathbb{Q}$ - Rational numbers
 
-$\mathbb{R}$ - Real numbers
-
 $\mathbb{I}$ - Irrational numbers
+
+$\mathbb{R}$ - Real numbers
 
 $a \vdots b$ - a кратно b
 
 ## LCM and GCD
 
-$$LCM(a, b) \cdot GCD(a, b) = ab$$
+$$(a, b) = k, \left( \frac{a}{k}, \frac{b}{k} \right) = 1$$
+$$(a, b) [a, b] = ab$$
+
+### Алгоритм Евклида
+
+$$a > b, a = bq_1 + r_1$$
+$$r_1 > 0, b = r_1 q_2 + r_2$$
+$$r_2 > 0, r_1 = r_2 q_3 + r_3$$
 
 ## Последовательности
 
@@ -42,7 +49,7 @@ $$LCM(a, b) \cdot GCD(a, b) = ab$$
 
 $$a_{n+1} = a_n + d$$
 $$a_n = a_1 + (n - 1)d$$
-$$S_n = \frac{(a_1 + a_n)n}{2} = (a_1 + \frac{d(n-1)}{2})n$$
+$$S_n = \frac{(a_1 + a_n)n}{2} = \left( a_1 + \frac{d(n-1)}{2} \right) n$$
 
 ### Геометрическая прогрессия
 
